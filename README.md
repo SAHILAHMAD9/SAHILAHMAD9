@@ -1,7 +1,22 @@
-**Building...** full-stack projects with my go-to stack: Next.js, React, Angular, Node.js, and MongoDB.<br><br>
-**I'm looking to collaborate on...** Open-source projects that use Next.js, React, Angular, NodeJS.<br><br> 
-**I'm currently learning...** Deeper data structures & algorithms (OOP with Java) and system design principles AND GenAI.<br><br>
-💬 **Ask me about...**<br>* **Next.js**, **React.js**, **Node.js**, **MongoDB**,<br>* JavaScript (ES6+), API Development, AngularJS.
+Hi, I'm SAHIL! 
+## Hi, I'm <Your Name> 👋
+
+Software Engineer | Full-Stack Developer  
+Building scalable, user-centric products with modern web technologies.
+
+---
+
+### About Me
+
+```ts
+const me = {
+  role: "Full-Stack Developer",
+  focus: ["Product Engineering", "Scalable Systems", "Clean Architecture"],
+  stack: ["Next.js", "React", "Angular", "Node.js", "MongoDB"],
+  mindset: "Build → Measure → Optimize"
+};
+```
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-ahmad-52b6522a8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sahil-ahmad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SahilAh42663686) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilahmad3504@gmail.com) 
