@@ -1,4 +1,4 @@
-**Building...** full-stack projects with my go-to stack: Next.js, React, Node.js, and MongoDB.<br><br>
+**Building...** full-stack projects with my go-to stack: Next.js, React, Angular, Node.js, and MongoDB.<br><br>
 **I'm looking to collaborate on...** Open-source projects that use Next.js, React, Angular, NodeJS.<br><br> 
 **I'm currently learning...** Deeper data structures & algorithms (OOP with Java) and system design principles AND GenAI.<br><br>
 💬 **Ask me about...**<br>* **Next.js**, **React.js**, **Node.js**, **MongoDB**,<br>* JavaScript (ES6+), API Development, AngularJS.
